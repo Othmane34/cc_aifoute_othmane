@@ -35,6 +35,10 @@ git add .
 git commit -m "Ajout controle_continu.txt"
 
 6. Créez une branche feature et placez vous dessus. Donnez les 3 méthodes de création de branche. 
+git branch feature
+git switch -c feature
+git checkout -b feature
+
 7. Ajoutez un fichier texte film.txt à votre dossier et écrivez votre film préféré à l'intérieur. 
 8. Ajoutez un fichier texte serie.txt à votre dossier et écrivez votre série préférée à l'intérieur. 
 9. Faites un commit en ajoutant uniquement le fichier film.txt à votre commit. 
