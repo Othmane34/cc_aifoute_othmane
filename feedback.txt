@@ -1,0 +1,3 @@
+Je trouve que ce cours, était très instructif et donnait de bons conseils sur comment gérer ses projets via Git et Github.
+Malheureusement peu de séances car nous sommes en rentrée décalée, mais avec une ou deux séances de plus et un ou deux TP de plus,
+je pense que cela aurait été encore meilleur.
