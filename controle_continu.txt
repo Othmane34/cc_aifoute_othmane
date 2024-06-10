@@ -31,6 +31,8 @@ QUESTIONS PRATIQUES.
 
 5. Après avoir répondu aux questions de cours, ajoutez ce fichier dans votre repo et faites votre premier commit. 
 move controle_continu.txt cc_aifoute_othmane
+git add .
+git commit -m "Ajout controle_continu.txt"
 
 6. Créez une branche feature et placez vous dessus. Donnez les 3 méthodes de création de branche. 
 7. Ajoutez un fichier texte film.txt à votre dossier et écrivez votre film préféré à l'intérieur. 
