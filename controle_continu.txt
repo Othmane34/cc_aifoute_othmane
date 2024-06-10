@@ -76,11 +76,15 @@ git commit -m "ajout screen log"
 
 16. Créez un repo en ligne dans lequel vous pousserez votre dossier. 
 git remote add origin https://github.com/Othmane34/cc_aifoute_othmane.git
-git push origin main
+git push origin master
 
 17. Sur GitHub, créez un nouveau fichier origin.txt sur la branche master. Puis tirez le dans votre repo local.
+git pull origin master
+
 18. Créez une nouvelle branche feedback, ajoutez un fichier feedback.txt dans lequel vous écrirez votre feedback sur le cours
 (vous ne serez ni avantagé ni pénalisé selon le feedback). Créez ensuite une Pull Request et mergez la dans master depuis GitHub.
+git branch feedback
+git switch feedback
 
 Lien de votre repo GitHub : 
 Vous laisserez votre repo distant en public et écrirez le lien dans ce fichier que vous rendez sur classroom. 
